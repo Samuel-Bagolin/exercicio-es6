@@ -1,8 +1,4 @@
 {
-  "name": "exercicio_es6",
-  "version": "1.0.0",
-  "description": "Exercício ES6 - Filtrar alunos aprovados",
-  "main": "src/array.js",
   "scripts": {
     "build": "babel src --watch -d dist"
   },
